@@ -18,8 +18,10 @@
 
 - Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, Lucide React.
 - Python FastAPI, Pydantic 2, SQLAlchemy 2, Pillow, Uvicorn, SQLite.
+- PyTorch 2.15.0+cpu, Torchvision 0.29.2+cpu (object detection, CPU-only).
+- pytesseract 0.3.13 + Tesseract 5 (OCR, requires separate Windows binary install).
 - Vitest and React Testing Library for frontend interaction tests.
-- Use Node.js 20.9+ and Python 3.11 (Python 3.13 may also work; dependencies should be installed and checked locally).
+- Python 3.13.14 (confirmed); Python 3.11 is the documented baseline.
 
 ## Setup
 
@@ -27,18 +29,21 @@ Backend (PowerShell):
 
 ```powershell
 cd backend
-py -3.11 -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
+python -m pip install -r requirements-analysis.txt
+python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 Copy-Item .env.example .env
+# Download detector weights (one-time, ~13 MB):
+python -m app.services.analysis.download_models
 uvicorn app.main:app --reload
 ```
 
-Start the worker in another backend terminal after installing desired optional model engines:
+Install Tesseract 5 for Windows separately (see [docs/PHASE_03B_SETUP.md](docs/PHASE_03B_SETUP.md)) to enable OCR.
+
+Start the worker in another backend terminal:
 
 ```powershell
 cd backend
-.\.venv\Scripts\Activate.ps1
 python -m app.worker
 ```
 

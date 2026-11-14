@@ -1,3 +1,12 @@
 # Optional Python wrapper for the separately installed Tesseract 5 executable.
 # Install only when OCR is wanted; Tesseract engine/language data are separate.
 pytesseract==0.3.13
+
+# CPU-only PyTorch and Torchvision for object detection.
+# Install using the official CPU index — do NOT use the default PyPI index (installs CUDA):
+#   python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# Confirmed wheels (Python 3.13, Windows x64, CPU-only):
+#   torch==2.15.0+cpu
+#   torchvision==0.29.2+cpu
+# After installing PyTorch, download detector weights explicitly:
+#   cd backend && python -m app.services.analysis.download_models

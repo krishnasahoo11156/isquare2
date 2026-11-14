@@ -256,9 +256,9 @@ def process_analysis(analysis_id: str, worker_id: str) -> None:
 
 
 def worker_loop(stop_event, worker_id: str) -> None:
-    from app.database.connection import Base, engine
+    from app.database.connection import engine, init_db
     from app.models import ImageAsset, ResearchJob  # ensure mappings are registered
-    Base.metadata.create_all(bind=engine)
+    init_db(bind=engine)
     while not stop_event.is_set():
         with SessionLocal() as db:
             fail_expired_exhausted(db)

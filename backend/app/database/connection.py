@@ -1,4 +1,4 @@
-from sqlalchemy import create_engine, event
+from sqlalchemy import create_engine, event, text
 from sqlalchemy.orm import DeclarativeBase, sessionmaker
 from app.core.config import settings
 
@@ -24,3 +24,19 @@ def get_db():
         yield db
     finally:
         db.close()
+
+
+def init_db(bind=None) -> None:
+    target_engine = bind or engine
+    Base.metadata.create_all(bind=target_engine)
+    if target_engine.dialect.name == "sqlite":
+        with target_engine.connect() as conn:
+            result = conn.execute(text("PRAGMA table_info(image_analyses)")).fetchall()
+            if result:
+                cols = {row[1] for row in result}
+                if "image_width" not in cols:
+                    conn.execute(text("ALTER TABLE image_analyses ADD COLUMN image_width INTEGER"))
+                if "image_height" not in cols:
+                    conn.execute(text("ALTER TABLE image_analyses ADD COLUMN image_height INTEGER"))
+                conn.commit()
+
