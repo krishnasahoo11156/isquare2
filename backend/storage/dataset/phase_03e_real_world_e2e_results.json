@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "modality": "Real human portrait",
+    "filename": "ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "dimensions": "420x420",
+    "ground_truth": "Human photograph",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Illustration or artwork",
+      "confidence": 0.9073,
+      "raw_alternatives": [
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.9073
+        },
+        {
+          "category": "Mixed-content image",
+          "confidence": 0.0642
+        },
+        {
+          "category": "Landscape or outdoor scene",
+          "confidence": 0.0129
+        }
+      ],
+      "duration_ms": 5874.8
+    },
+    "detection": {
+      "count": 1,
+      "objects": [
+        {
+          "label": "person",
+          "confidence": 0.9969,
+          "box": {
+            "x": 0,
+            "y": 47,
+            "width": 413,
+            "height": 371
+          }
+        }
+      ],
+      "duration_ms": 258.88
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 678.95
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 2,
+    "modality": "Multiple-person scene",
+    "filename": "det_scene_multiple_people.png",
+    "dimensions": "480x320",
+    "ground_truth": "Human photograph",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Illustration or artwork",
+      "confidence": 0.7019,
+      "raw_alternatives": [
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.7019
+        },
+        {
+          "category": "Landscape or outdoor scene",
+          "confidence": 0.1111
+        },
+        {
+          "category": "Object or product",
+          "confidence": 0.1096
+        }
+      ],
+      "duration_ms": 18.24
+    },
+    "detection": {
+      "count": 0,
+      "objects": [],
+      "duration_ms": 68.96
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 47.66
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 3,
+    "modality": "Printed document",
+    "filename": "fixture_printed_document.png",
+    "dimensions": "640x480",
+    "ground_truth": "Document",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Object or product",
+      "confidence": 0.7036,
+      "raw_alternatives": [
+        {
+          "category": "Object or product",
+          "confidence": 0.7036
+        },
+        {
+          "category": "Logo or graphic",
+          "confidence": 0.2955
+        },
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.0009
+        }
+      ],
+      "duration_ms": 23.98
+    },
+    "detection": {
+      "count": 0,
+      "objects": [],
+      "duration_ms": 76.38
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 49.38
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 4,
+    "modality": "Blank parchment background",
+    "filename": "eval_blank_05.png",
+    "dimensions": "320x320",
+    "ground_truth": "Uncertain",
+    "image_info_assessment": "blank_image",
+    "classification": {
+      "predicted_category": "Uncertain",
+      "confidence": 0.0,
+      "raw_alternatives": [
+        {
+          "category": "Landscape or outdoor scene",
+          "confidence": 0.492
+        },
+        {
+          "category": "Screenshot",
+          "confidence": 0.2305
+        },
+        {
+          "category": "Logo or graphic",
+          "confidence": 0.1215
+        }
+      ],
+      "duration_ms": 18.74
+    },
+    "detection": {
+      "count": 0,
+      "objects": [],
+      "duration_ms": 68.15
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 47.92
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 5,
+    "modality": "Screenshot",
+    "filename": "fixture_screenshot.png",
+    "dimensions": "800x500",
+    "ground_truth": "Screenshot",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Screenshot",
+      "confidence": 0.8875,
+      "raw_alternatives": [
+        {
+          "category": "Screenshot",
+          "confidence": 0.8875
+        },
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.0676
+        },
+        {
+          "category": "Logo or graphic",
+          "confidence": 0.0291
+        }
+      ],
+      "duration_ms": 23.13
+    },
+    "detection": {
+      "count": 0,
+      "objects": [],
+      "duration_ms": 75.96
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 49.41
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 6,
+    "modality": "Logo or graphic",
+    "filename": "eval_logo_or_graphic_00.png",
+    "dimensions": "320x320",
+    "ground_truth": "Logo or graphic",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Illustration or artwork",
+      "confidence": 0.7502,
+      "raw_alternatives": [
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.7502
+        },
+        {
+          "category": "Logo or graphic",
+          "confidence": 0.249
+        },
+        {
+          "category": "Object or product",
+          "confidence": 0.0006
+        }
+      ],
+      "duration_ms": 18.45
+    },
+    "detection": {
+      "count": 1,
+      "objects": [
+        {
+          "label": "stop sign",
+          "confidence": 0.9889,
+          "box": {
+            "x": 38,
+            "y": 43,
+            "width": 246,
+            "height": 241
+          }
+        }
+      ],
+      "duration_ms": 54.91
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 45.33
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 7,
+    "modality": "Real 4K Landscape photograph",
+    "filename": "img100.jpg",
+    "dimensions": "3840x2160",
+    "ground_truth": "Landscape or outdoor scene",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Illustration or artwork",
+      "confidence": 0.8735,
+      "raw_alternatives": [
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.8735
+        },
+        {
+          "category": "Landscape or outdoor scene",
+          "confidence": 0.1175
+        },
+        {
+          "category": "Screenshot",
+          "confidence": 0.0048
+        }
+      ],
+      "duration_ms": 276.15
+    },
+    "detection": {
+      "count": 0,
+      "objects": [],
+      "duration_ms": 437.32
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 47.97
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 8,
+    "modality": "Animal photograph",
+    "filename": "eval_animal_photograph_00.png",
+    "dimensions": "320x320",
+    "ground_truth": "Animal photograph",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Animal photograph",
+      "confidence": 0.9887,
+      "raw_alternatives": [
+        {
+          "category": "Animal photograph",
+          "confidence": 0.9887
+        },
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.0099
+        },
+        {
+          "category": "Landscape or outdoor scene",
+          "confidence": 0.0014
+        }
+      ],
+      "duration_ms": 16.15
+    },
+    "detection": {
+      "count": 1,
+      "objects": [
+        {
+          "label": "bird",
+          "confidence": 0.7666,
+          "box": {
+            "x": 56,
+            "y": 90,
+            "width": 184,
+            "height": 160
+          }
+        }
+      ],
+      "duration_ms": 50.66
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 47.48
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 9,
+    "modality": "Product image",
+    "filename": "eval_object_or_product_00.png",
+    "dimensions": "320x320",
+    "ground_truth": "Object or product",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Object or product",
+      "confidence": 0.9999,
+      "raw_alternatives": [
+        {
+          "category": "Object or product",
+          "confidence": 0.9999
+        },
+        {
+          "category": "Logo or graphic",
+          "confidence": 0.0001
+        },
+        {
+          "category": "Human photograph",
+          "confidence": 0.0
+        }
+      ],
+      "duration_ms": 19.18
+    },
+    "detection": {
+      "count": 2,
+      "objects": [
+        {
+          "label": "stop sign",
+          "confidence": 0.8705,
+          "box": {
+            "x": 110,
+            "y": 102,
+            "width": 123,
+            "height": 163
+          }
+        },
+        {
+          "label": "umbrella",
+          "confidence": 0.6228,
+          "box": {
+            "x": 110,
+            "y": 99,
+            "width": 124,
+            "height": 159
+          }
+        }
+      ],
+      "duration_ms": 55.65
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 45.96
+    },
+    "pipeline_status": "completed"
+  },
+  {
+    "id": 10,
+    "modality": "Illustration / artwork",
+    "filename": "eval_illustration_or_artwork_00.png",
+    "dimensions": "320x320",
+    "ground_truth": "Illustration or artwork",
+    "image_info_assessment": "valid_visual_content",
+    "classification": {
+      "predicted_category": "Illustration or artwork",
+      "confidence": 0.862,
+      "raw_alternatives": [
+        {
+          "category": "Illustration or artwork",
+          "confidence": 0.862
+        },
+        {
+          "category": "Landscape or outdoor scene",
+          "confidence": 0.1292
+        },
+        {
+          "category": "Mixed-content image",
+          "confidence": 0.0053
+        }
+      ],
+      "duration_ms": 22.15
+    },
+    "detection": {
+      "count": 0,
+      "objects": [],
+      "duration_ms": 73.35
+    },
+    "ocr": {
+      "status": "failed",
+      "error_code": "ocr_engine_missing",
+      "text_snippet": null,
+      "duration_ms": 83.75
+    },
+    "pipeline_status": "completed"
+  }
+]
