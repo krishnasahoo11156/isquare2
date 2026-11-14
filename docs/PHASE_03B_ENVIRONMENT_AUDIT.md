@@ -163,4 +163,14 @@ python -m app.services.analysis.download_models
 3 passed in 2.98s   (tests/test_real_inference.py::TestEngineMissingBehavior)
 ```
 
-All 13 tests pass against the current environment.
+## Test Results (Full Suite — After Dependency Installation)
+
+```
+20 passed, 10 skipped in 20.99s
+  tests/test_services.py                   10 passed
+  tests/test_real_inference.py::TestOCRRealInference     10 skipped (Tesseract not installed)
+  tests/test_real_inference.py::TestDetectorRealInference  7 passed (real inference)
+  tests/test_real_inference.py::TestEngineMissingBehavior  3 passed
+```
+
+All 10 OCR tests will run once Tesseract is installed. Zero failures.

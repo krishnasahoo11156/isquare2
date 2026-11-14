@@ -1,8 +1,12 @@
 # Phase 03 Evaluation Plan and Current Evidence
 
-## Current measurement status
+## Phase 03B measurement status (updated 2026-11-14)
 
-**No model accuracy or performance benchmarks are claimed.** The current workspace has no Tesseract executable/language data, no installed PyTorch/Torchvision, no downloaded detector weights, and no approved held-out image corpus. The worker's model-unavailable paths and mocked partial-persistence path have test coverage, but those tests are not evidence of model accuracy or real inference. The 0.35 detection threshold is provisional, not validated.
+**Object detection real inference is confirmed.** PyTorch 2.15.0+cpu and Torchvision 0.29.2+cpu are installed; SSDLite COCO weights are downloaded and verified (13.42 MB). Real inference executes in 94–186 ms (warm, Ryzen 7 CPU, 1 thread). Cold load is ~13.3 s per process start (acceptable for a background worker that stays running).
+
+**OCR real inference is deferred.** pytesseract 0.3.13 is installed; the Tesseract 5 Windows binary is not. Install it manually (see `PHASE_03B_SETUP.md`) to enable OCR. The adapter and all mocked tests are verified correct.
+
+**No model accuracy benchmarks are claimed.** All evaluation fixtures are synthetic. 7 detector tests and 3 missing-engine tests pass against real code paths. The 0.35 detection threshold is provisional, not validated. See `PHASE_03B_INFERENCE_RESULTS.md` for actual timing measurements.
 
 ## Dataset requirements
 

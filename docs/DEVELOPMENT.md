@@ -32,15 +32,38 @@ From `backend`, run `python -m pytest`. Service tests run without a local server
 7. Open **Image Forensics**, select the same image, and select **Inspect image**. Confirm file facts, SHA-256, and available EXIF fields. No AI detection score should appear.
 8. To inspect lifecycle transitions directly, use `PATCH /api/v1/research/{id}/status` in `/docs`; try `queued → processing → completed`, and verify an invalid transition returns 409 and an unknown status returns 422. These transitions only update workflow status; they do not run analysis.
 
-## Phase 03 analysis verification
+## Phase 03B analysis verification (inference operational)
 
-Use the three-terminal API/worker/frontend workflow and model requirements in [PHASE_03_TESTING.md](PHASE_03_TESTING.md). Analysis is queued via the Results page or API and only advances when the worker claims it. The manual status PATCH is retired (410). The result page polls while queued/processing, stops at a terminal state, and reads persisted module output. Model output availability depends on separately installed local engines and weights.
+**Phase 03B status (2026-11-14):**
 
-## Environment verification limit
+| Engine | Status |
+|---|---|
+| PyTorch 2.15.0+cpu | ✅ Installed |
+| Torchvision 0.29.2+cpu | ✅ Installed |
+| SSDLite COCO weights | ✅ Downloaded (13.42 MB) |
+| Object detection (real) | ✅ Executed — 94–186 ms warm inference |
+| pytesseract 0.3.13 | ✅ Installed |
+| Tesseract 5 binary | ⚠️ Not installed — manual step required |
+| OCR real inference | ⚠️ Deferred — install Tesseract to enable |
 
-In this Codex Windows sandbox, Python 3.13's asyncio Proactor loop blocks in `_make_self_pipe` while falling back to a loopback `socketpair`; a minimal `socket.socketpair()` probe also blocks. FastAPI TestClient therefore cannot execute requests here, and this environment cannot perform a live browser-to-backend test. The HTTP tests are retained and opt-in for an unrestricted local Windows environment. Playwright is not installed; UI states are covered with jsdom component/page tests. Use the manual workflow above on the target machine to complete the real-browser verification.
+Use the three-terminal API/worker/frontend workflow. See [PHASE_03B_SETUP.md](PHASE_03B_SETUP.md) for the complete setup procedure including the Tesseract Windows installer steps.
 
-For Phase 03, model execution is also not available in this environment: Python 3.13.14 has Pillow and NumPy but not Torch/Torchvision/pytesseract, no Tesseract executable or language data, and no downloaded weights or evaluation dataset. No real inference, accuracy benchmark, or browser-to-worker roundtrip is claimed. See [PHASE_03_TESTING.md](PHASE_03_TESTING.md).
+**Running real inference tests:**
+
+```powershell
+cd c:\project\phase2\isquare2\backend
+
+# All tests (without Tesseract: 20 passed, 9 skipped)
+python -m pytest tests/ -v
+
+# Detector only (always works after weight download)
+python -m pytest tests/test_real_inference.py::TestDetectorRealInference -v -s
+
+# OCR (requires Tesseract binary — skipped if absent)
+python -m pytest tests/test_real_inference.py::TestOCRRealInference -v -s
+```
+
+See [PHASE_03B_TESTING.md](PHASE_03B_TESTING.md) for the full test reference and [PHASE_03B_INFERENCE_RESULTS.md](PHASE_03B_INFERENCE_RESULTS.md) for measured benchmark results.
 
 ## Troubleshooting
 
