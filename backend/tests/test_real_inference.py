@@ -446,13 +446,20 @@ class TestEngineMissingBehavior:
         prepared.close()
         assert exc_info.value.code == "detector_weights_missing"
 
-    def test_classifier_always_raises_engine_unavailable(self):
-        """Classification raises EngineUnavailable — no model is installed."""
+    def test_classifier_raises_when_weights_missing(self, monkeypatch, tmp_path):
+        """Classification raises EngineUnavailable when weights are missing."""
+        from app.services.analysis import engines
         from app.services.analysis.engines import EngineUnavailable, run_classifier
         from app.services.analysis.preprocessing import PreparedImage
+        fake_settings = type("S", (), {
+            "model_cache_dir": tmp_path,
+        })()
+        monkeypatch.setattr(engines, "settings", fake_settings)
+        monkeypatch.setattr(engines, "_classifier", None)
+        monkeypatch.setattr(engines, "_classifier_meta", None)
         prepared = PreparedImage(Image.new("RGB", (100, 50), "white"), 100, 50, 100, 50, [])
         with pytest.raises(EngineUnavailable) as exc_info:
             run_classifier(prepared)
         prepared.close()
-        assert exc_info.value.code == "classifier_not_configured"
+        assert exc_info.value.code == "classifier_weights_missing"
 
