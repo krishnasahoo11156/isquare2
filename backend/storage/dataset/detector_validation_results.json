@@ -1,0 +1,218 @@
+{
+  "model": "torchvision-ssdlite320-mobilenet_v3_large-coco",
+  "threshold": 0.35,
+  "metrics": {
+    "true_positives": 0,
+    "false_positives": 4,
+    "false_negatives": 5,
+    "precision": 0.0,
+    "recall": 0.0,
+    "mean_iou_at_0.50": 0.0
+  },
+  "scenes": [
+    {
+      "name": "Single person centered",
+      "filename": "det_scene_single_person.png",
+      "duration_ms": 8488.6,
+      "detections": [
+        {
+          "label": "frisbee",
+          "confidence": 0.7807,
+          "box": {
+            "x": 125,
+            "y": 59,
+            "width": 72,
+            "height": 94
+          }
+        },
+        {
+          "label": "kite",
+          "confidence": 0.5971,
+          "box": {
+            "x": 91,
+            "y": 211,
+            "width": 142,
+            "height": 108
+          }
+        }
+      ],
+      "ground_truth": [
+        {
+          "label": "person",
+          "box": {
+            "x": 90,
+            "y": 60,
+            "width": 140,
+            "height": 260
+          }
+        }
+      ],
+      "tp": 0,
+      "fp": 2,
+      "fn": 1
+    },
+    {
+      "name": "Multiple people (two people)",
+      "filename": "det_scene_multiple_people.png",
+      "duration_ms": 61.22,
+      "detections": [],
+      "ground_truth": [
+        {
+          "label": "person",
+          "box": {
+            "x": 50,
+            "y": 50,
+            "width": 140,
+            "height": 270
+          }
+        },
+        {
+          "label": "person",
+          "box": {
+            "x": 290,
+            "y": 50,
+            "width": 140,
+            "height": 270
+          }
+        }
+      ],
+      "tp": 0,
+      "fp": 0,
+      "fn": 2
+    },
+    {
+      "name": "Distant small person",
+      "filename": "det_scene_distant_person.png",
+      "duration_ms": 63.46,
+      "detections": [],
+      "ground_truth": [
+        {
+          "label": "person",
+          "box": {
+            "x": 150,
+            "y": 220,
+            "width": 20,
+            "height": 55
+          }
+        }
+      ],
+      "tp": 0,
+      "fp": 0,
+      "fn": 1
+    },
+    {
+      "name": "Common object (bottle)",
+      "filename": "det_scene_bottle.png",
+      "duration_ms": 72.98,
+      "detections": [],
+      "ground_truth": [
+        {
+          "label": "bottle",
+          "box": {
+            "x": 120,
+            "y": 60,
+            "width": 80,
+            "height": 210
+          }
+        }
+      ],
+      "tp": 0,
+      "fp": 0,
+      "fn": 1
+    },
+    {
+      "name": "Blank Document (Negative Control)",
+      "filename": "fixture_blank_document.png",
+      "duration_ms": 75.16,
+      "detections": [],
+      "ground_truth": [],
+      "tp": 0,
+      "fp": 0,
+      "fn": 0
+    },
+    {
+      "name": "Geometric Shapes (Negative Control)",
+      "filename": "fixture_geometric_shapes.png",
+      "duration_ms": 61.85,
+      "detections": [
+        {
+          "label": "kite",
+          "confidence": 0.5819,
+          "box": {
+            "x": 48,
+            "y": 50,
+            "width": 204,
+            "height": 201
+          }
+        },
+        {
+          "label": "umbrella",
+          "confidence": 0.3804,
+          "box": {
+            "x": 250,
+            "y": 160,
+            "width": 203,
+            "height": 219
+          }
+        }
+      ],
+      "ground_truth": [],
+      "tp": 0,
+      "fp": 2,
+      "fn": 0
+    },
+    {
+      "name": "Printed Document (Negative Control)",
+      "filename": "fixture_printed_document.png",
+      "duration_ms": 73.01,
+      "detections": [],
+      "ground_truth": [],
+      "tp": 0,
+      "fp": 0,
+      "fn": 0
+    },
+    {
+      "name": "User Upload (2c4733d3f044483cbceb12ae31d6ffc7.png)",
+      "filename": "2c4733d3f044483cbceb12ae31d6ffc7.png",
+      "duration_ms": 129.45,
+      "detections": [],
+      "ground_truth": null
+    },
+    {
+      "name": "User Upload (64088bd250cc4501b90812568162dfd1.png)",
+      "filename": "64088bd250cc4501b90812568162dfd1.png",
+      "duration_ms": 58.66,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.9966,
+          "box": {
+            "x": 23,
+            "y": 49,
+            "width": 465,
+            "height": 460
+          }
+        }
+      ],
+      "ground_truth": null
+    },
+    {
+      "name": "User Upload (ba1463d0f55a4f84a86df7a4698671b9.jpg)",
+      "filename": "ba1463d0f55a4f84a86df7a4698671b9.jpg",
+      "duration_ms": 64.7,
+      "detections": [
+        {
+          "label": "person",
+          "confidence": 0.9969,
+          "box": {
+            "x": 0,
+            "y": 47,
+            "width": 413,
+            "height": 371
+          }
+        }
+      ],
+      "ground_truth": null
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "evaluation_name": "Phase 03D Expanded Classifier Validation",
+  "sample_counts": {
+    "concrete_test_samples": 500,
+    "samples_per_class": 50,
+    "blank_background_samples": 25,
+    "ambiguous_blended_samples": 25,
+    "total_evaluated": 550
+  },
+  "metrics": {
+    "accuracy": 0.878,
+    "macro_precision": 0.9266,
+    "macro_recall": 0.8949,
+    "macro_f1": 0.8938
+  },
+  "per_class": {
+    "Human photograph": {
+      "precision": 1.0,
+      "recall": 0.96,
+      "f1": 0.9796,
+      "support": 50
+    },
+    "Document": {
+      "precision": 0.9259,
+      "recall": 1.0,
+      "f1": 0.9615,
+      "support": 50
+    },
+    "Screenshot": {
+      "precision": 1.0,
+      "recall": 0.8636,
+      "f1": 0.9268,
+      "support": 50
+    },
+    "Logo or graphic": {
+      "precision": 0.9394,
+      "recall": 0.6458,
+      "f1": 0.7654,
+      "support": 50
+    },
+    "Object or product": {
+      "precision": 0.6579,
+      "recall": 1.0,
+      "f1": 0.7937,
+      "support": 50
+    },
+    "Landscape or outdoor scene": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 50
+    },
+    "Animal photograph": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 50
+    },
+    "Illustration or artwork": {
+      "precision": 0.7424,
+      "recall": 0.98,
+      "f1": 0.8448,
+      "support": 50
+    },
+    "Mixed-content image": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 50
+    },
+    "Other": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6667,
+      "support": 50
+    }
+  },
+  "confusion_matrix": [
+    [
+      48,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      50,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      38,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      31,
+      2,
+      0,
+      0,
+      15,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      50,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      50,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      49,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      50,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      21,
+      0,
+      0,
+      0,
+      0,
+      23
+    ]
+  ],
+  "uncertainty_audit": {
+    "blank_images": {
+      "total": 25,
+      "uncertain_count": 22,
+      "uncertain_rate": 0.88
+    },
+    "ambiguous_images": {
+      "total": 25,
+      "uncertain_count": 1,
+      "uncertain_rate": 0.04
+    },
+    "concrete_images_uncertain_count": 12
+  },
+  "calibration": {
+    "uncalibrated": {
+      "ece": 0.0548,
+      "brier_score": 0.1478
+    },
+    "temperature_scaling": {
+      "optimal_T": -0.1,
+      "calibrated_ece": 0.9812,
+      "calibrated_brier_score": 1.9709
+    }
+  }
+}
