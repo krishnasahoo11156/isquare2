@@ -216,16 +216,21 @@ def run_classifier(prepared: PreparedImage) -> ClassificationOutput:
             reverse=True,
         )
 
+        import numpy as np
+        img_arr = np.asarray(prepared.image.convert("RGB"), dtype=np.float32)
+        is_featureless = float(np.std(img_arr)) < 5.0
+
         top_1 = scored[0]
         top_2 = scored[1] if len(scored) > 1 else {"confidence": 0.0}
 
         # Uncertainty:
-        # If top probability is below 0.30 or margin between top-1 and top-2 is ambiguous (< 0.05)
-        is_uncertain = top_1["confidence"] < 0.30 or (top_1["confidence"] - top_2["confidence"] < 0.05)
+        # Triggered if image is featureless/blank, if top probability is below 0.35,
+        # or if the margin between top-1 and top-2 is ambiguous (< 0.08).
+        is_uncertain = is_featureless or top_1["confidence"] < 0.35 or (top_1["confidence"] - top_2["confidence"] < 0.08)
 
         if is_uncertain:
             predicted_category = "Uncertain"
-            predicted_confidence = top_1["confidence"]
+            predicted_confidence = round(top_1["confidence"], 4) if not is_featureless else 0.0
         else:
             predicted_category = top_1["category"]
             predicted_confidence = top_1["confidence"]

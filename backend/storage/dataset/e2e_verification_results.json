@@ -1,0 +1,235 @@
+[
+  {
+    "label": "Portrait",
+    "analysis_id": "61bcb0c0-72c6-4662-940b-570e7eee0344",
+    "overall_status": "completed",
+    "warning": "Some analysis tasks were unavailable or failed: ocr:ocr_engine_missing",
+    "error_code": null,
+    "classification": {
+      "status": "completed",
+      "category": "Illustration or artwork",
+      "confidence": 0.9073
+    },
+    "detection": {
+      "status": "completed",
+      "count": 1,
+      "labels": [
+        "person"
+      ]
+    },
+    "ocr": {
+      "status": "failed"
+    },
+    "observations": [
+      {
+        "category": "classification",
+        "description": "The image was classified as Illustration or artwork (91% confidence)."
+      },
+      {
+        "category": "object",
+        "description": "The detector returned 1 person detection(s)."
+      }
+    ],
+    "executions": [
+      {
+        "task": "classification",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "detection",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "ocr",
+        "status": "failed",
+        "error": "ocr_engine_missing"
+      }
+    ]
+  },
+  {
+    "label": "Document",
+    "analysis_id": "31b24414-0ae8-42f1-9a8d-b88eef419cf2",
+    "overall_status": "completed",
+    "warning": "Some analysis tasks were unavailable or failed: ocr:ocr_engine_missing",
+    "error_code": null,
+    "classification": {
+      "status": "completed",
+      "category": "Object or product",
+      "confidence": 0.7036
+    },
+    "detection": {
+      "status": "completed",
+      "count": 0,
+      "labels": []
+    },
+    "ocr": {
+      "status": "failed"
+    },
+    "observations": [
+      {
+        "category": "classification",
+        "description": "The image was classified as Object or product (70% confidence)."
+      }
+    ],
+    "executions": [
+      {
+        "task": "classification",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "detection",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "ocr",
+        "status": "failed",
+        "error": "ocr_engine_missing"
+      }
+    ]
+  },
+  {
+    "label": "Screenshot",
+    "analysis_id": "95b14e26-b7a0-43d1-bcd6-983bfae44529",
+    "overall_status": "completed",
+    "warning": "Some analysis tasks were unavailable or failed: ocr:ocr_engine_missing",
+    "error_code": null,
+    "classification": {
+      "status": "completed",
+      "category": "Screenshot",
+      "confidence": 0.8875
+    },
+    "detection": {
+      "status": "completed",
+      "count": 1,
+      "labels": [
+        "tv"
+      ]
+    },
+    "ocr": {
+      "status": "failed"
+    },
+    "observations": [
+      {
+        "category": "classification",
+        "description": "The image was classified as Screenshot (89% confidence)."
+      },
+      {
+        "category": "object",
+        "description": "The detector returned 1 tv detection(s)."
+      }
+    ],
+    "executions": [
+      {
+        "task": "classification",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "detection",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "ocr",
+        "status": "failed",
+        "error": "ocr_engine_missing"
+      }
+    ]
+  },
+  {
+    "label": "Landscape",
+    "analysis_id": "aba9fc96-8d3a-4491-a20d-604ffaa947f2",
+    "overall_status": "completed",
+    "warning": "Some analysis tasks were unavailable or failed: ocr:ocr_engine_missing",
+    "error_code": null,
+    "classification": {
+      "status": "completed",
+      "category": "Landscape or outdoor scene",
+      "confidence": 0.9997
+    },
+    "detection": {
+      "status": "completed",
+      "count": 1,
+      "labels": [
+        "stop sign"
+      ]
+    },
+    "ocr": {
+      "status": "failed"
+    },
+    "observations": [
+      {
+        "category": "classification",
+        "description": "The image was classified as Landscape or outdoor scene (100% confidence)."
+      },
+      {
+        "category": "object",
+        "description": "The detector returned 1 stop sign detection(s)."
+      }
+    ],
+    "executions": [
+      {
+        "task": "classification",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "detection",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "ocr",
+        "status": "failed",
+        "error": "ocr_engine_missing"
+      }
+    ]
+  },
+  {
+    "label": "Blank Background",
+    "analysis_id": "875b5e32-c326-493a-993a-9cb048307f14",
+    "overall_status": "completed",
+    "warning": "Some analysis tasks were unavailable or failed: ocr:ocr_engine_missing",
+    "error_code": null,
+    "classification": {
+      "status": "completed",
+      "category": "Uncertain",
+      "confidence": 0.0
+    },
+    "detection": {
+      "status": "completed",
+      "count": 0,
+      "labels": []
+    },
+    "ocr": {
+      "status": "failed"
+    },
+    "observations": [
+      {
+        "category": "classification",
+        "description": "The image was classified as Uncertain (0% confidence)."
+      }
+    ],
+    "executions": [
+      {
+        "task": "classification",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "detection",
+        "status": "completed",
+        "error": null
+      },
+      {
+        "task": "ocr",
+        "status": "failed",
+        "error": "ocr_engine_missing"
+      }
+    ]
+  }
+]

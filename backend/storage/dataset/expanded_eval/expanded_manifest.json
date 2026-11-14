@@ -1,0 +1,4402 @@
+[
+  {
+    "filename": "eval_human_photograph_00.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_01.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_02.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_03.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_04.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_05.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_06.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_07.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_08.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_09.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_10.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_11.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_12.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_13.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_14.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_15.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_16.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_17.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_18.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_19.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_20.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_21.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_22.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_23.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_24.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_25.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_26.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_27.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_28.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_29.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_30.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_31.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_32.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_33.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_34.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_35.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_36.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_37.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_38.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_39.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_40.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_41.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_42.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_43.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_44.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_45.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_46.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_47.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_48.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_human_photograph_49.png",
+    "category": "Human photograph",
+    "category_index": 0,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_00.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_01.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_02.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_03.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_04.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_05.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_06.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_07.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_08.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_09.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_10.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_11.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_12.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_13.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_14.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_15.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_16.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_17.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_18.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_19.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_20.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_21.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_22.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_23.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_24.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_25.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_26.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_27.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_28.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_29.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_30.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_31.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_32.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_33.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_34.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_35.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_36.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_37.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_38.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_39.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_40.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_41.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_42.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_43.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_44.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_45.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_46.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_47.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_48.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_document_49.png",
+    "category": "Document",
+    "category_index": 1,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_00.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_01.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_02.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_03.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_04.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_05.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_06.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_07.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_08.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_09.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_10.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_11.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_12.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_13.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_14.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_15.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_16.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_17.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_18.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_19.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_20.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_21.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_22.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_23.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_24.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_25.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_26.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_27.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_28.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_29.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_30.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_31.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_32.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_33.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_34.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_35.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_36.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_37.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_38.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_39.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_40.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_41.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_42.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_43.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_44.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_45.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_46.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_47.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_48.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_screenshot_49.png",
+    "category": "Screenshot",
+    "category_index": 2,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_00.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_01.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_02.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_03.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_04.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_05.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_06.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_07.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_08.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_09.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_10.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_11.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_12.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_13.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_14.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_15.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_16.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_17.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_18.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_19.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_20.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_21.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_22.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_23.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_24.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_25.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_26.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_27.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_28.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_29.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_30.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_31.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_32.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_33.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_34.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_35.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_36.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_37.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_38.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_39.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_40.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_41.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_42.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_43.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_44.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_45.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_46.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_47.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_48.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_logo_or_graphic_49.png",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_00.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_01.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_02.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_03.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_04.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_05.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_06.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_07.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_08.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_09.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_10.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_11.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_12.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_13.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_14.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_15.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_16.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_17.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_18.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_19.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_20.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_21.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_22.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_23.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_24.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_25.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_26.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_27.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_28.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_29.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_30.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_31.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_32.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_33.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_34.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_35.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_36.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_37.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_38.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_39.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_40.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_41.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_42.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_43.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_44.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_45.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_46.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_47.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_48.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_object_or_product_49.png",
+    "category": "Object or product",
+    "category_index": 4,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_00.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_01.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_02.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_03.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_04.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_05.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_06.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_07.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_08.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_09.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_10.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_11.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_12.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_13.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_14.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_15.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_16.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_17.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_18.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_19.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_20.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_21.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_22.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_23.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_24.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_25.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_26.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_27.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_28.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_29.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_30.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_31.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_32.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_33.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_34.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_35.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_36.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_37.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_38.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_39.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_40.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_41.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_42.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_43.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_44.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_45.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_46.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_47.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_48.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_landscape_or_outdoor_scene_49.png",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_00.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_01.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_02.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_03.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_04.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_05.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_06.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_07.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_08.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_09.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_10.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_11.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_12.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_13.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_14.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_15.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_16.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_17.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_18.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_19.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_20.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_21.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_22.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_23.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_24.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_25.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_26.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_27.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_28.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_29.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_30.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_31.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_32.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_33.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_34.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_35.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_36.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_37.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_38.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_39.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_40.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_41.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_42.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_43.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_44.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_45.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_46.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_47.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_48.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_animal_photograph_49.png",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_00.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_01.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_02.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_03.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_04.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_05.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_06.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_07.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_08.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_09.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_10.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_11.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_12.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_13.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_14.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_15.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_16.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_17.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_18.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_19.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_20.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_21.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_22.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_23.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_24.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_25.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_26.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_27.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_28.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_29.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_30.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_31.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_32.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_33.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_34.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_35.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_36.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_37.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_38.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_39.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_40.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_41.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_42.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_43.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_44.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_45.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_46.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_47.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_48.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_illustration_or_artwork_49.png",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_00.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_01.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_02.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_03.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_04.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_05.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_06.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_07.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_08.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_09.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_10.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_11.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_12.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_13.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_14.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_15.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_16.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_17.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_18.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_19.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_20.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_21.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_22.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_23.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_24.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_25.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_26.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_27.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_28.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_29.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_30.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_31.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_32.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_33.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_34.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_35.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_36.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_37.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_38.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_39.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_40.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_41.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_42.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_43.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_44.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_45.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_46.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_47.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_48.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_mixed-content_image_49.png",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_00.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_01.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_02.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_03.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_04.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_05.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_06.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_07.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_08.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_09.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_10.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_11.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_12.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_13.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_14.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_15.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_16.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_17.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_18.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_19.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_20.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_21.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_22.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_23.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_24.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_25.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_26.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_27.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_28.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_29.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_30.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_31.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_32.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_33.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_34.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_35.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_36.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_37.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_38.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_39.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_40.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_41.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_42.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_43.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_44.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_45.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_46.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_47.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_48.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_other_49.png",
+    "category": "Other",
+    "category_index": 9,
+    "is_ambiguous": false,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_00.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_01.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_02.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_03.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_04.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_05.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_06.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_07.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_08.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_09.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_10.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_11.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_12.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_13.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_14.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_15.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_16.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_17.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_18.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_19.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_20.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_21.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_22.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_23.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_blank_24.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": true,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_00.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_01.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_02.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_03.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_04.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_05.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_06.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_07.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_08.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_09.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_10.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_11.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_12.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_13.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_14.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_15.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_16.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_17.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_18.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_19.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_20.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_21.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_22.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_23.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  },
+  {
+    "filename": "eval_ambiguous_24.png",
+    "category": "Uncertain",
+    "category_index": -1,
+    "is_ambiguous": true,
+    "is_blank": false,
+    "license": "CC0-Public-Domain"
+  }
+]
