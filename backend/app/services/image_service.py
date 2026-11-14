@@ -1,5 +1,6 @@
 import io
-from PIL import Image, UnidentifiedImageError
+from pathlib import Path
+from PIL import Image, ImageOps, UnidentifiedImageError
 
 MAX_PIXELS = 40_000_000
 MIME_TYPES = {"JPEG": "image/jpeg", "PNG": "image/png", "WEBP": "image/webp"}
@@ -30,3 +31,17 @@ def inspect_image(contents: bytes) -> tuple[str, str, int, int]:
         raise
     except (UnidentifiedImageError, OSError, Image.DecompressionBombError, Image.DecompressionBombWarning):
         raise ImageValidationError(422, "invalid_image", "The uploaded file is not a valid supported image.") from None
+
+def create_thumbnail(path: Path, size: int = 160) -> bytes:
+    output = io.BytesIO()
+    with Image.open(path) as source:
+        source = ImageOps.exif_transpose(source)
+        source.thumbnail((size, size), Image.Resampling.LANCZOS)
+        if source.mode not in ("RGB", "RGBA"):
+            source = source.convert("RGBA" if "transparency" in source.info else "RGB")
+        if source.mode == "RGBA":
+            background = Image.new("RGB", source.size, "white")
+            background.paste(source, mask=source.getchannel("A"))
+            source = background
+        source.save(output, format="JPEG", quality=82, optimize=True)
+    return output.getvalue()

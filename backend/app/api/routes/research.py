@@ -4,7 +4,7 @@ from sqlalchemy.orm import Session, joinedload
 from app.database.connection import get_db
 from app.models.image import ImageAsset
 from app.models.research import ResearchJob
-from app.schemas.research import ResearchCreate, ResearchList, ResearchOut
+from app.schemas.research import ResearchCreate, ResearchList, ResearchOut, ResearchStatusUpdate
 from app.services.research_service import build_research_job
 
 router = APIRouter()
@@ -28,3 +28,7 @@ def get_research(research_id: str, db: Session = Depends(get_db)):
     item = db.scalar(select(ResearchJob).options(joinedload(ResearchJob.image)).where(ResearchJob.id == research_id))
     if item is None: raise HTTPException(404, detail={"code":"research_not_found","message":"Research record was not found."})
     return item
+
+@router.patch("/api/v1/research/{research_id}/status", response_model=ResearchOut, responses={410: {"description": "Status is worker-owned."}})
+def update_research_status(research_id: str, payload: ResearchStatusUpdate, db: Session = Depends(get_db)):
+    raise HTTPException(410, detail={"code":"worker_owned_status","message":"Research status is managed by the analysis worker. Queue analysis instead."})

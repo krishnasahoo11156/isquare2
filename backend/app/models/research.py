@@ -1,7 +1,8 @@
 from datetime import datetime, timezone
-from sqlalchemy import DateTime, ForeignKey, String, Text, Index
+from sqlalchemy import ForeignKey, String, Text, Index
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from app.database.connection import Base
+from app.database.types import UTCDateTime
 
 class ResearchJob(Base):
     __tablename__ = "research_jobs"
@@ -15,6 +16,6 @@ class ResearchJob(Base):
     public_profile_url: Mapped[str | None] = mapped_column(String(2048))
     additional_context: Mapped[str | None] = mapped_column(Text)
     status: Mapped[str] = mapped_column(String(32), default="queued", nullable=False, index=True)
-    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), nullable=False)
-    updated_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc), nullable=False)
+    created_at: Mapped[datetime] = mapped_column(UTCDateTime(), default=lambda: datetime.now(timezone.utc), nullable=False)
+    updated_at: Mapped[datetime] = mapped_column(UTCDateTime(), default=lambda: datetime.now(timezone.utc), onupdate=lambda: datetime.now(timezone.utc), nullable=False)
     image: Mapped["ImageAsset"] = relationship(back_populates="researches")

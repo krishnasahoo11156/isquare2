@@ -1,5 +1,8 @@
 from datetime import datetime
+from typing import Literal
 from pydantic import BaseModel, ConfigDict, Field, HttpUrl
+
+ResearchStatus = Literal["queued", "processing", "completed", "failed"]
 
 class ImageOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
@@ -12,6 +15,11 @@ class ImageOut(BaseModel):
     sha256: str
     created_at: datetime
 
+class ImageMetadataOut(ImageOut):
+    exif: dict[str, str]
+    provenance: str
+    ai_detection: str
+
 class ResearchCreate(BaseModel):
     image_id: str
     subject_name: str | None = Field(default=None, max_length=255)
@@ -19,6 +27,9 @@ class ResearchCreate(BaseModel):
     organization: str | None = Field(default=None, max_length=255)
     public_profile_url: HttpUrl | None = None
     additional_context: str | None = Field(default=None, max_length=5000)
+
+class ResearchStatusUpdate(BaseModel):
+    status: ResearchStatus
 
 class ResearchOut(BaseModel):
     model_config = ConfigDict(from_attributes=True)
@@ -30,7 +41,7 @@ class ResearchOut(BaseModel):
     organization: str | None
     public_profile_url: str | None
     additional_context: str | None
-    status: str
+    status: ResearchStatus
     created_at: datetime
     updated_at: datetime
     image: ImageOut

@@ -1,0 +1,3 @@
+# Optional Python wrapper for the separately installed Tesseract 5 executable.
+# Install only when OCR is wanted; Tesseract engine/language data are separate.
+pytesseract==0.3.13
