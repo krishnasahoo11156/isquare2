@@ -196,9 +196,17 @@ def process_analysis(analysis_id: str, worker_id: str) -> None:
             if task == "classification" and status == "completed":
                 if analysis.classification:
                     db.delete(analysis.classification)
+                for old_obs in list(analysis.observations):
+                    if old_obs.category == "classification":
+                        db.delete(old_obs)
+                conf_pct = round(data.confidence * 100) if data.confidence is not None else 0
                 analysis.classification = ClassificationResult(predicted_category=data.category, confidence_score=data.confidence,
                     alternative_predictions=data.alternatives, model_name=data.model, model_version=data.version,
                     processing_duration_ms=duration, status="completed")
+                analysis.observations.append(VisualObservation(category="classification",
+                    description=f"The image was classified as {data.category} ({conf_pct}% confidence).",
+                    confidence_score=data.confidence, supporting_result_reference="classification_result",
+                    model_name=data.model, model_version=data.version))
             elif task == "detection" and status == "completed":
                 for result in list(analysis.detections):
                     db.delete(result)

@@ -17,6 +17,15 @@ class EngineUnavailable(RuntimeError):
 
 
 @dataclass
+class ClassificationOutput:
+    category: str
+    confidence: float | None
+    alternatives: list[dict]
+    model: str
+    version: str
+
+
+@dataclass
 class OCRBlock:
     text: str
     confidence: float | None
@@ -49,6 +58,23 @@ _detector_lock = threading.Lock()
 _detector = None
 _detector_meta = None
 
+_classifier_lock = threading.Lock()
+_classifier = None
+_classifier_meta = None
+
+ISQUARE_CATEGORIES = [
+    "Human photograph",
+    "Document",
+    "Screenshot",
+    "Logo or graphic",
+    "Object or product",
+    "Landscape or outdoor scene",
+    "Animal photograph",
+    "Illustration or artwork",
+    "Mixed-content image",
+    "Other",
+]
+
 
 def _load_tesseract():
     try:
@@ -57,8 +83,18 @@ def _load_tesseract():
         raise EngineUnavailable("ocr_dependency_missing", "Install the optional OCR dependencies and Tesseract as described in docs/PHASE_03_MODELS.md.") from exc
     configured = settings.tesseract_cmd
     executable = configured or shutil.which("tesseract")
+    if not executable:
+        # Check standard Windows installation directories before failing
+        for candidate in [
+            r"C:\Program Files\Tesseract-OCR\tesseract.exe",
+            r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe",
+            Path.home() / "AppData" / "Local" / "Programs" / "Tesseract-OCR" / "tesseract.exe",
+        ]:
+            if Path(candidate).is_file():
+                executable = str(candidate)
+                break
     if not executable or (configured and not Path(configured).is_file()):
-        raise EngineUnavailable("ocr_engine_missing", "Tesseract was not found. Install Tesseract 5 and configured language data; see docs/PHASE_03_MODELS.md.")
+        raise EngineUnavailable("ocr_engine_missing", "Tesseract was not found. Install Tesseract 5 on Windows (e.g. winget install UB-Mannheim.TesseractOCR) and ensure it is on PATH or configure ISQUARE_TESSERACT_CMD; see docs/PHASE_03_MODELS.md.")
     pytesseract.pytesseract.tesseract_cmd = executable
     try:
         version = str(pytesseract.get_tesseract_version()).splitlines()[0]
@@ -111,8 +147,100 @@ def run_ocr(prepared: PreparedImage) -> OCROutput:
     full_text = "\n".join(" ".join(line_words) for line_words in lines.values())
     return OCROutput(full_text, settings.ocr_language, "Tesseract", version, elapsed, "completed", blocks, operations)
 
-def run_classifier(_prepared: PreparedImage):
-    raise EngineUnavailable("classifier_not_configured", "No validated iSquare category classifier is installed. The generic ImageNet labels are not mapped to iSquare categories.")
+def _load_classifier():
+    global _classifier, _classifier_meta
+    with _classifier_lock:
+        if _classifier is not None:
+            return _classifier, _classifier_meta
+        head_path = settings.model_cache_dir / "isquare_classifier_head_v1.pth"
+        backbone_path = settings.model_cache_dir / "ssdlite320_mobilenet_v3_large-coco_v1.pth"
+        if not head_path.is_file():
+            raise EngineUnavailable("classifier_weights_missing", "The iSquare classifier head weights are not installed.")
+        if not backbone_path.is_file():
+            raise EngineUnavailable("classifier_backbone_missing", "The MobileNetV3 feature backbone weights are not installed.")
+        try:
+            import torch
+            import torch.nn as nn
+            from torchvision import transforms
+            from torchvision.models.detection import ssdlite320_mobilenet_v3_large
+        except ImportError as exc:
+            raise EngineUnavailable("classifier_dependency_missing", "PyTorch and Torchvision are required for classification.") from exc
+        try:
+            torch.set_num_threads(1)
+            detector = ssdlite320_mobilenet_v3_large(weights=None, weights_backbone=None)
+            backbone_state = torch.load(backbone_path, map_location="cpu", weights_only=True)
+            detector.load_state_dict(backbone_state)
+            backbone = detector.backbone.features
+            backbone.eval()
+            for p in backbone.parameters():
+                p.requires_grad = False
+
+            head = nn.Sequential(
+                nn.Linear(480, 128),
+                nn.Hardswish(),
+                nn.Dropout(p=0.15),
+                nn.Linear(128, len(ISQUARE_CATEGORIES)),
+            )
+            head_state = torch.load(head_path, map_location="cpu", weights_only=True)
+            prefix = "fc."
+            clean_state = {k[len(prefix):] if k.startswith(prefix) else k: v for k, v in head_state.items()}
+            head.load_state_dict(clean_state)
+            head.eval()
+
+            transform = transforms.Compose([
+                transforms.Resize((224, 224)),
+                transforms.ToTensor(),
+                transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
+            ])
+            _classifier = (torch, nn, backbone, head, transform)
+            _classifier_meta = (ISQUARE_CATEGORIES, "1.0.0")
+            return _classifier, _classifier_meta
+        except Exception as exc:
+            raise EngineUnavailable("classifier_initialization_failed", f"Failed to initialize classifier: {exc}") from exc
+
+
+def run_classifier(prepared: PreparedImage) -> ClassificationOutput:
+    (torch, nn, backbone, head, transform), (categories, version) = _load_classifier()
+    try:
+        tensor = transform(prepared.image.convert("RGB")).unsqueeze(0)
+        started = time.perf_counter()
+        with torch.inference_mode():
+            feat = backbone(tensor)
+            pooled = nn.functional.adaptive_avg_pool2d(feat, (1, 1)).flatten(1)
+            logits = head(pooled)
+            probs = torch.softmax(logits, dim=1)[0].tolist()
+
+        scored = sorted(
+            [{"category": cat, "confidence": round(prob, 4)} for cat, prob in zip(categories, probs)],
+            key=lambda x: x["confidence"],
+            reverse=True,
+        )
+
+        top_1 = scored[0]
+        top_2 = scored[1] if len(scored) > 1 else {"confidence": 0.0}
+
+        # Uncertainty:
+        # If top probability is below 0.30 or margin between top-1 and top-2 is ambiguous (< 0.05)
+        is_uncertain = top_1["confidence"] < 0.30 or (top_1["confidence"] - top_2["confidence"] < 0.05)
+
+        if is_uncertain:
+            predicted_category = "Uncertain"
+            predicted_confidence = top_1["confidence"]
+        else:
+            predicted_category = top_1["category"]
+            predicted_confidence = top_1["confidence"]
+
+        return ClassificationOutput(
+            category=predicted_category,
+            confidence=predicted_confidence,
+            alternatives=scored,
+            model="isquare-mobilenet_v3_large-classifier",
+            version=version,
+        )
+    except EngineUnavailable:
+        raise
+    except Exception as exc:
+        raise EngineUnavailable("classifier_execution_failed", f"The classifier could not process this image: {exc}") from exc
 
 
 def _load_detector():

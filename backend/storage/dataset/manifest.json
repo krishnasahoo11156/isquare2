@@ -1,0 +1,1002 @@
+[
+  {
+    "filename": "human_photograph_train_00.png",
+    "filepath": "storage\\dataset\\train\\human_photograph_train_00.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_train_01.png",
+    "filepath": "storage\\dataset\\train\\human_photograph_train_01.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_train_02.png",
+    "filepath": "storage\\dataset\\train\\human_photograph_train_02.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_train_03.png",
+    "filepath": "storage\\dataset\\train\\human_photograph_train_03.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_train_04.png",
+    "filepath": "storage\\dataset\\train\\human_photograph_train_04.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_train_05.png",
+    "filepath": "storage\\dataset\\train\\human_photograph_train_05.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_train_00.png",
+    "filepath": "storage\\dataset\\train\\document_train_00.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_train_01.png",
+    "filepath": "storage\\dataset\\train\\document_train_01.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_train_02.png",
+    "filepath": "storage\\dataset\\train\\document_train_02.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_train_03.png",
+    "filepath": "storage\\dataset\\train\\document_train_03.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_train_04.png",
+    "filepath": "storage\\dataset\\train\\document_train_04.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_train_05.png",
+    "filepath": "storage\\dataset\\train\\document_train_05.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_train_00.png",
+    "filepath": "storage\\dataset\\train\\screenshot_train_00.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_train_01.png",
+    "filepath": "storage\\dataset\\train\\screenshot_train_01.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_train_02.png",
+    "filepath": "storage\\dataset\\train\\screenshot_train_02.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_train_03.png",
+    "filepath": "storage\\dataset\\train\\screenshot_train_03.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_train_04.png",
+    "filepath": "storage\\dataset\\train\\screenshot_train_04.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_train_05.png",
+    "filepath": "storage\\dataset\\train\\screenshot_train_05.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_train_00.png",
+    "filepath": "storage\\dataset\\train\\logo_or_graphic_train_00.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_train_01.png",
+    "filepath": "storage\\dataset\\train\\logo_or_graphic_train_01.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_train_02.png",
+    "filepath": "storage\\dataset\\train\\logo_or_graphic_train_02.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_train_03.png",
+    "filepath": "storage\\dataset\\train\\logo_or_graphic_train_03.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_train_04.png",
+    "filepath": "storage\\dataset\\train\\logo_or_graphic_train_04.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_train_05.png",
+    "filepath": "storage\\dataset\\train\\logo_or_graphic_train_05.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_train_00.png",
+    "filepath": "storage\\dataset\\train\\object_or_product_train_00.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_train_01.png",
+    "filepath": "storage\\dataset\\train\\object_or_product_train_01.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_train_02.png",
+    "filepath": "storage\\dataset\\train\\object_or_product_train_02.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_train_03.png",
+    "filepath": "storage\\dataset\\train\\object_or_product_train_03.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_train_04.png",
+    "filepath": "storage\\dataset\\train\\object_or_product_train_04.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_train_05.png",
+    "filepath": "storage\\dataset\\train\\object_or_product_train_05.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_00.png",
+    "filepath": "storage\\dataset\\train\\landscape_or_outdoor_scene_train_00.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_01.png",
+    "filepath": "storage\\dataset\\train\\landscape_or_outdoor_scene_train_01.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_02.png",
+    "filepath": "storage\\dataset\\train\\landscape_or_outdoor_scene_train_02.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_03.png",
+    "filepath": "storage\\dataset\\train\\landscape_or_outdoor_scene_train_03.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_04.png",
+    "filepath": "storage\\dataset\\train\\landscape_or_outdoor_scene_train_04.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_05.png",
+    "filepath": "storage\\dataset\\train\\landscape_or_outdoor_scene_train_05.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_train_00.png",
+    "filepath": "storage\\dataset\\train\\animal_photograph_train_00.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_train_01.png",
+    "filepath": "storage\\dataset\\train\\animal_photograph_train_01.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_train_02.png",
+    "filepath": "storage\\dataset\\train\\animal_photograph_train_02.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_train_03.png",
+    "filepath": "storage\\dataset\\train\\animal_photograph_train_03.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_train_04.png",
+    "filepath": "storage\\dataset\\train\\animal_photograph_train_04.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_train_05.png",
+    "filepath": "storage\\dataset\\train\\animal_photograph_train_05.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_train_00.png",
+    "filepath": "storage\\dataset\\train\\illustration_or_artwork_train_00.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_train_01.png",
+    "filepath": "storage\\dataset\\train\\illustration_or_artwork_train_01.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_train_02.png",
+    "filepath": "storage\\dataset\\train\\illustration_or_artwork_train_02.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_train_03.png",
+    "filepath": "storage\\dataset\\train\\illustration_or_artwork_train_03.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_train_04.png",
+    "filepath": "storage\\dataset\\train\\illustration_or_artwork_train_04.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_train_05.png",
+    "filepath": "storage\\dataset\\train\\illustration_or_artwork_train_05.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_train_00.png",
+    "filepath": "storage\\dataset\\train\\mixed-content_image_train_00.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_train_01.png",
+    "filepath": "storage\\dataset\\train\\mixed-content_image_train_01.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_train_02.png",
+    "filepath": "storage\\dataset\\train\\mixed-content_image_train_02.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_train_03.png",
+    "filepath": "storage\\dataset\\train\\mixed-content_image_train_03.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_train_04.png",
+    "filepath": "storage\\dataset\\train\\mixed-content_image_train_04.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_train_05.png",
+    "filepath": "storage\\dataset\\train\\mixed-content_image_train_05.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_train_00.png",
+    "filepath": "storage\\dataset\\train\\other_train_00.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_train_01.png",
+    "filepath": "storage\\dataset\\train\\other_train_01.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_train_02.png",
+    "filepath": "storage\\dataset\\train\\other_train_02.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_train_03.png",
+    "filepath": "storage\\dataset\\train\\other_train_03.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_train_04.png",
+    "filepath": "storage\\dataset\\train\\other_train_04.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_train_05.png",
+    "filepath": "storage\\dataset\\train\\other_train_05.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_val_00.png",
+    "filepath": "storage\\dataset\\val\\human_photograph_val_00.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_val_01.png",
+    "filepath": "storage\\dataset\\val\\human_photograph_val_01.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_val_00.png",
+    "filepath": "storage\\dataset\\val\\document_val_00.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_val_01.png",
+    "filepath": "storage\\dataset\\val\\document_val_01.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_val_00.png",
+    "filepath": "storage\\dataset\\val\\screenshot_val_00.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_val_01.png",
+    "filepath": "storage\\dataset\\val\\screenshot_val_01.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_val_00.png",
+    "filepath": "storage\\dataset\\val\\logo_or_graphic_val_00.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_val_01.png",
+    "filepath": "storage\\dataset\\val\\logo_or_graphic_val_01.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_val_00.png",
+    "filepath": "storage\\dataset\\val\\object_or_product_val_00.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_val_01.png",
+    "filepath": "storage\\dataset\\val\\object_or_product_val_01.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_00.png",
+    "filepath": "storage\\dataset\\val\\landscape_or_outdoor_scene_val_00.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_01.png",
+    "filepath": "storage\\dataset\\val\\landscape_or_outdoor_scene_val_01.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_val_00.png",
+    "filepath": "storage\\dataset\\val\\animal_photograph_val_00.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_val_01.png",
+    "filepath": "storage\\dataset\\val\\animal_photograph_val_01.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_val_00.png",
+    "filepath": "storage\\dataset\\val\\illustration_or_artwork_val_00.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_val_01.png",
+    "filepath": "storage\\dataset\\val\\illustration_or_artwork_val_01.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_val_00.png",
+    "filepath": "storage\\dataset\\val\\mixed-content_image_val_00.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_val_01.png",
+    "filepath": "storage\\dataset\\val\\mixed-content_image_val_01.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_val_00.png",
+    "filepath": "storage\\dataset\\val\\other_val_00.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_val_01.png",
+    "filepath": "storage\\dataset\\val\\other_val_01.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_test_00.png",
+    "filepath": "storage\\dataset\\test\\human_photograph_test_00.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "human_photograph_test_01.png",
+    "filepath": "storage\\dataset\\test\\human_photograph_test_01.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_test_00.png",
+    "filepath": "storage\\dataset\\test\\document_test_00.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "document_test_01.png",
+    "filepath": "storage\\dataset\\test\\document_test_01.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_test_00.png",
+    "filepath": "storage\\dataset\\test\\screenshot_test_00.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "screenshot_test_01.png",
+    "filepath": "storage\\dataset\\test\\screenshot_test_01.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_test_00.png",
+    "filepath": "storage\\dataset\\test\\logo_or_graphic_test_00.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "logo_or_graphic_test_01.png",
+    "filepath": "storage\\dataset\\test\\logo_or_graphic_test_01.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_test_00.png",
+    "filepath": "storage\\dataset\\test\\object_or_product_test_00.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "object_or_product_test_01.png",
+    "filepath": "storage\\dataset\\test\\object_or_product_test_01.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_00.png",
+    "filepath": "storage\\dataset\\test\\landscape_or_outdoor_scene_test_00.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_01.png",
+    "filepath": "storage\\dataset\\test\\landscape_or_outdoor_scene_test_01.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_test_00.png",
+    "filepath": "storage\\dataset\\test\\animal_photograph_test_00.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "animal_photograph_test_01.png",
+    "filepath": "storage\\dataset\\test\\animal_photograph_test_01.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_test_00.png",
+    "filepath": "storage\\dataset\\test\\illustration_or_artwork_test_00.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "illustration_or_artwork_test_01.png",
+    "filepath": "storage\\dataset\\test\\illustration_or_artwork_test_01.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_test_00.png",
+    "filepath": "storage\\dataset\\test\\mixed-content_image_test_00.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "mixed-content_image_test_01.png",
+    "filepath": "storage\\dataset\\test\\mixed-content_image_test_01.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_test_00.png",
+    "filepath": "storage\\dataset\\test\\other_test_00.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  },
+  {
+    "filename": "other_test_01.png",
+    "filepath": "storage\\dataset\\test\\other_test_01.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "width": 320,
+    "height": 320,
+    "license": "CC0-Public-Domain-Synthetic"
+  }
+]
