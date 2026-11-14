@@ -1,0 +1,4502 @@
+[
+  {
+    "filename": "human_photograph_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_00.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_01.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_02.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_03.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_04.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_05.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_06.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_07.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_08.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_09.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_10.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_11.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_12.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_13.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_14.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_15.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_16.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_17.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_18.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_19.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_20.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_21.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_22.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_23.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_24.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_25.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_26.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_27.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_28.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\human_photograph\\human_photograph_train_29.png",
+    "split": "train",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_00.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_01.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_02.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_03.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_04.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_05.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_06.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_07.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_08.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\human_photograph\\human_photograph_val_09.png",
+    "split": "val",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_00.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_01.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_02.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_03.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_04.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_05.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_06.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_07.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_08.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:ba1463d0f55a4f84a86df7a4698671b9.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "human_photograph_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\human_photograph\\human_photograph_test_09.png",
+    "split": "test",
+    "category": "Human photograph",
+    "category_index": 0,
+    "provenance": "real_user_photograph_augmented:64088bd250cc4501b90812568162dfd1.png",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_00.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_01.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_02.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_03.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_04.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_05.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_06.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_07.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_08.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_09.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_10.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_11.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_12.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_13.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_14.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_15.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_16.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_17.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_18.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_19.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_20.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_21.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_22.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_23.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_24.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_25.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_26.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_27.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_28.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\document\\document_train_29.png",
+    "split": "train",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_00.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_01.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_02.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_03.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_04.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_05.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_06.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_07.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_08.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\document\\document_val_09.png",
+    "split": "val",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_00.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_01.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_02.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_03.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_04.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_05.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_06.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_07.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_08.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "document_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\document\\document_test_09.png",
+    "split": "test",
+    "category": "Document",
+    "category_index": 1,
+    "provenance": "rendered_document_typography",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_00.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_01.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_02.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_03.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_04.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_05.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_06.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_07.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_08.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_09.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_10.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_11.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_12.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_13.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_14.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_15.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_16.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_17.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_18.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_19.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_20.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_21.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_22.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_23.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_24.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_25.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_26.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_27.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_28.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\screenshot\\screenshot_train_29.png",
+    "split": "train",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_00.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_01.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_02.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_03.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_04.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_05.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_06.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_07.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_08.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\screenshot\\screenshot_val_09.png",
+    "split": "val",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_00.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_01.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_02.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_03.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_04.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_05.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_06.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_07.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_08.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "screenshot_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\screenshot\\screenshot_test_09.png",
+    "split": "test",
+    "category": "Screenshot",
+    "category_index": 2,
+    "provenance": "desktop_ui_screenshot",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_00.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_01.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_02.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_03.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_04.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_05.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_06.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_07.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_08.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_09.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_10.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_11.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_12.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_13.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_14.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_15.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_16.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_17.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_18.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_19.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_20.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_21.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_22.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_23.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_24.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_25.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_26.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_27.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_28.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\logo_or_graphic\\logo_or_graphic_train_29.png",
+    "split": "train",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_00.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_01.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_02.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_03.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_04.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_05.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_06.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_07.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_08.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\logo_or_graphic\\logo_or_graphic_val_09.png",
+    "split": "val",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_00.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_01.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_02.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_03.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_04.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_05.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_06.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_07.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_08.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "logo_or_graphic_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\logo_or_graphic\\logo_or_graphic_test_09.png",
+    "split": "test",
+    "category": "Logo or graphic",
+    "category_index": 3,
+    "provenance": "vector_brand_logo",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_00.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_01.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_02.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_03.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_04.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_05.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_06.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_07.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_08.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_09.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_10.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_11.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_12.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_13.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_14.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_15.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_16.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_17.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_18.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_19.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_20.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_21.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_22.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_23.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_24.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_25.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_26.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_27.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_28.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\object_or_product\\object_or_product_train_29.png",
+    "split": "train",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_00.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_01.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_02.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_03.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_04.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_05.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_06.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_07.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_08.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\object_or_product\\object_or_product_val_09.png",
+    "split": "val",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_00.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_01.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_02.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_03.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_04.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_05.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_06.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_07.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_08.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "object_or_product_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\object_or_product\\object_or_product_test_09.png",
+    "split": "test",
+    "category": "Object or product",
+    "category_index": 4,
+    "provenance": "commercial_product_item",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_00.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img27.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_01.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img28.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_02.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img29.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_03.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img30.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_04.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img31.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_05.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img32.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_06.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img33.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_07.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img34.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_08.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img35.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_09.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img0.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_10.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img19.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_11.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img100.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_12.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img101.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_13.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img102.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_14.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img103.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_15.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img104.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_16.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img105.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_17.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img14.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_18.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img50.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_19.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img20.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_20.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img21.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_21.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img22.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_22.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img23.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_23.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img24.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_24.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img25.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_25.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img26.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_26.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img27.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_27.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img28.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_28.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img29.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_train_29.png",
+    "split": "train",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img30.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_00.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img32.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_01.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img33.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_02.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img34.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_03.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img35.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_04.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img0.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_05.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img19.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_06.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img100.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_07.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img101.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_08.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img102.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_val_09.png",
+    "split": "val",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img103.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_00.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img100.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_01.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img101.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_02.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img102.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_03.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img103.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_04.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img104.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_05.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img105.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_06.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img14.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_07.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img50.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_08.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img20.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "landscape_or_outdoor_scene_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\landscape_or_outdoor_scene\\landscape_or_outdoor_scene_test_09.png",
+    "split": "test",
+    "category": "Landscape or outdoor scene",
+    "category_index": 5,
+    "provenance": "real_camera_photo:img21.jpg",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_00.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_01.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_02.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_03.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_04.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_05.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_06.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_07.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_08.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_09.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_10.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_11.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_12.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_13.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_14.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_15.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_16.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_17.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_18.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_19.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_20.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_21.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_22.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_23.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_24.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_25.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_26.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_27.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_28.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\animal_photograph\\animal_photograph_train_29.png",
+    "split": "train",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_00.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_01.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_02.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_03.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_04.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_05.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_06.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_07.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_08.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\animal_photograph\\animal_photograph_val_09.png",
+    "split": "val",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_00.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_01.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_02.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_03.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_04.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_05.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_06.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_07.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_08.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "animal_photograph_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\animal_photograph\\animal_photograph_test_09.png",
+    "split": "test",
+    "category": "Animal photograph",
+    "category_index": 6,
+    "provenance": "animal_photograph_silhouette",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_00.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_01.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_02.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_03.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_04.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_05.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_06.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_07.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_08.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_09.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_10.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_11.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_12.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_13.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_14.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_15.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_16.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_17.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_18.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_19.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_20.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_21.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_22.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_23.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_24.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_25.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_26.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_27.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_28.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\illustration_or_artwork\\illustration_or_artwork_train_29.png",
+    "split": "train",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_00.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_01.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_02.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_03.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_04.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_05.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_06.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_07.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_08.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\illustration_or_artwork\\illustration_or_artwork_val_09.png",
+    "split": "val",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_00.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_01.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_02.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_03.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_04.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_05.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_06.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_07.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_08.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "illustration_or_artwork_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\illustration_or_artwork\\illustration_or_artwork_test_09.png",
+    "split": "test",
+    "category": "Illustration or artwork",
+    "category_index": 7,
+    "provenance": "abstract_artwork_illustration",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_00.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_01.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_02.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_03.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_04.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_05.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_06.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_07.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_08.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_09.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_10.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_11.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_12.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_13.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_14.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_15.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_16.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_17.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_18.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_19.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_20.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_21.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_22.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_23.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_24.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_25.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_26.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_27.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_28.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\mixed-content_image\\mixed-content_image_train_29.png",
+    "split": "train",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_00.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_01.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_02.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_03.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_04.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_05.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_06.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_07.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_08.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\mixed-content_image\\mixed-content_image_val_09.png",
+    "split": "val",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_00.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_01.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_02.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_03.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_04.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_05.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_06.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_07.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_08.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "mixed-content_image_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\mixed-content_image\\mixed-content_image_test_09.png",
+    "split": "test",
+    "category": "Mixed-content image",
+    "category_index": 8,
+    "provenance": "mixed_layout_poster",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_00.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_01.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_02.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_03.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_04.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_05.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_06.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_07.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_08.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_09.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_10.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_10.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_11.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_11.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_12.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_12.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_13.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_13.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_14.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_14.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_15.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_15.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_16.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_16.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_17.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_17.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_18.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_18.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_19.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_19.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_20.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_20.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_21.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_21.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_22.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_22.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_23.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_23.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_24.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_24.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_25.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_25.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_26.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_26.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_27.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_27.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_28.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_28.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_train_29.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\train\\other\\other_train_29.png",
+    "split": "train",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_00.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_01.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_02.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_03.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_04.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_05.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_06.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_07.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_08.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_val_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\val\\other\\other_val_09.png",
+    "split": "val",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_00.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_00.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_01.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_01.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_02.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_02.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_03.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_03.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_04.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_04.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_05.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_05.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_06.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_06.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_07.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_07.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_08.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_08.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  },
+  {
+    "filename": "other_test_09.png",
+    "filepath": "storage\\dataset\\realworld_dataset\\test\\other\\other_test_09.png",
+    "split": "test",
+    "category": "Other",
+    "category_index": 9,
+    "provenance": "abstract_texture_grid",
+    "license": "CC0 / Local System License"
+  }
+]

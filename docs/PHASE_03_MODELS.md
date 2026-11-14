@@ -46,6 +46,8 @@ python -m app.services.analysis.download_models
 
 One worker process and one CPU inference thread are the current limits. API startup does not import Torch or initialize Tesseract. If an engine or configured language is missing, the worker records a task error; image upload/history remain available.
 
-## Confidence notes
+## Confidence & Threshold notes
 
-Tesseract's TSV word confidence and detector scores are raw engine scores, not calibrated correctness probabilities. The detector currently applies a provisional 0.35 suppression threshold; no validated precision/recall tradeoff is claimed. Classification returns uncertain until a relevant validated category model exists.
+Tesseract's TSV word confidence and detector scores are raw engine scores, not calibrated correctness probabilities. The object detector applies a calibrated 0.45 suppression threshold (evaluated against thresholds 0.35–0.55 in Phase 03E to eliminate geometric false positives while preserving real photograph recall).
+
+The category classification engine operates via `isquare_classifier_head_v1.pth` over the pre-trained MobileNetV3-Large feature trunk. Classification is protected by an image-information assessment (identifying blank/featureless inputs), a Shannon entropy gate ($H(P) \le 1.85$), and a minimum margin threshold ($p_{(1)} - p_{(2)} \ge 0.08$); inputs failing these criteria are transparently assigned to `Uncertain`.

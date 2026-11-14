@@ -1,0 +1,134 @@
+{
+  "0.35": {
+    "threshold": 0.35,
+    "tp": 2,
+    "fp": 2,
+    "fn": 1,
+    "precision": 0.5,
+    "recall": 0.6667,
+    "f1": 0.5714,
+    "mean_iou": 1.0,
+    "fp_details": [
+      {
+        "scene": "Stress Test: Geometric Shapes (Vector Graphic)",
+        "thresh": 0.35,
+        "label": "kite",
+        "conf": 0.5819,
+        "box": {
+          "x": 48,
+          "y": 50,
+          "width": 204,
+          "height": 201
+        }
+      },
+      {
+        "scene": "Stress Test: Geometric Shapes (Vector Graphic)",
+        "thresh": 0.35,
+        "label": "umbrella",
+        "conf": 0.3804,
+        "box": {
+          "x": 250,
+          "y": 160,
+          "width": 203,
+          "height": 219
+        }
+      }
+    ]
+  },
+  "0.4": {
+    "threshold": 0.4,
+    "tp": 2,
+    "fp": 1,
+    "fn": 1,
+    "precision": 0.6667,
+    "recall": 0.6667,
+    "f1": 0.6667,
+    "mean_iou": 1.0,
+    "fp_details": [
+      {
+        "scene": "Stress Test: Geometric Shapes (Vector Graphic)",
+        "thresh": 0.4,
+        "label": "kite",
+        "conf": 0.5819,
+        "box": {
+          "x": 48,
+          "y": 50,
+          "width": 204,
+          "height": 201
+        }
+      }
+    ]
+  },
+  "0.45": {
+    "threshold": 0.45,
+    "tp": 2,
+    "fp": 1,
+    "fn": 1,
+    "precision": 0.6667,
+    "recall": 0.6667,
+    "f1": 0.6667,
+    "mean_iou": 1.0,
+    "fp_details": [
+      {
+        "scene": "Stress Test: Geometric Shapes (Vector Graphic)",
+        "thresh": 0.45,
+        "label": "kite",
+        "conf": 0.5819,
+        "box": {
+          "x": 48,
+          "y": 50,
+          "width": 204,
+          "height": 201
+        }
+      }
+    ]
+  },
+  "0.5": {
+    "threshold": 0.5,
+    "tp": 2,
+    "fp": 1,
+    "fn": 1,
+    "precision": 0.6667,
+    "recall": 0.6667,
+    "f1": 0.6667,
+    "mean_iou": 1.0,
+    "fp_details": [
+      {
+        "scene": "Stress Test: Geometric Shapes (Vector Graphic)",
+        "thresh": 0.5,
+        "label": "kite",
+        "conf": 0.5819,
+        "box": {
+          "x": 48,
+          "y": 50,
+          "width": 204,
+          "height": 201
+        }
+      }
+    ]
+  },
+  "0.55": {
+    "threshold": 0.55,
+    "tp": 2,
+    "fp": 1,
+    "fn": 1,
+    "precision": 0.6667,
+    "recall": 0.6667,
+    "f1": 0.6667,
+    "mean_iou": 1.0,
+    "fp_details": [
+      {
+        "scene": "Stress Test: Geometric Shapes (Vector Graphic)",
+        "thresh": 0.55,
+        "label": "kite",
+        "conf": 0.5819,
+        "box": {
+          "x": 48,
+          "y": 50,
+          "width": 204,
+          "height": 201
+        }
+      }
+    ]
+  }
+}

@@ -199,9 +199,37 @@ def _load_classifier():
             raise EngineUnavailable("classifier_initialization_failed", f"Failed to initialize classifier: {exc}") from exc
 
 
+def assess_image_information(image: Image.Image) -> tuple[str, float]:
+    """
+    Defensible image-information assessment to distinguish:
+    - 'blank_image': zero contrast / uniform flat color (white, black, solid gray)
+    - 'low_information_image': severe blur, zero edge energy, or pitch-dark content
+    - 'valid_visual_content': structured visual content with measurable edges/contrast
+    """
+    try:
+        import numpy as np
+        from scipy.ndimage import laplace
+        arr = np.asarray(image.convert("L"), dtype=np.float32)
+        std = float(np.std(arr))
+        lap_var = float(np.var(laplace(arr)))
+        mean = float(np.mean(arr))
+
+        if std < 2.5:
+            return "blank_image", 0.0
+        if (mean < 6.0 and std < 8.0) or (lap_var < 1.5 and std < 12.0):
+            return "low_information_image", 0.0
+        return "valid_visual_content", 1.0
+    except Exception:
+        return "valid_visual_content", 1.0
+
+
 def run_classifier(prepared: PreparedImage) -> ClassificationOutput:
     (torch, nn, backbone, head, transform), (categories, version) = _load_classifier()
     try:
+        # 1. Defensible Image Information Assessment
+        info_status, _ = assess_image_information(prepared.image)
+
+        # 2. Forward pass through feature backbone and classification head
         tensor = transform(prepared.image.convert("RGB")).unsqueeze(0)
         started = time.perf_counter()
         with torch.inference_mode():
@@ -216,17 +244,26 @@ def run_classifier(prepared: PreparedImage) -> ClassificationOutput:
             reverse=True,
         )
 
-        import numpy as np
-        img_arr = np.asarray(prepared.image.convert("RGB"), dtype=np.float32)
-        is_featureless = float(np.std(img_arr)) < 5.0
-
         top_1 = scored[0]
         top_2 = scored[1] if len(scored) > 1 else {"confidence": 0.0}
 
-        # Uncertainty:
-        # Triggered if image is featureless/blank, if top probability is below 0.35,
-        # or if the margin between top-1 and top-2 is ambiguous (< 0.08).
-        is_uncertain = is_featureless or top_1["confidence"] < 0.35 or (top_1["confidence"] - top_2["confidence"] < 0.08)
+        # Shannon entropy of probability distribution: H(P) = -sum(p * ln(p))
+        import math
+        entropy = -sum(p * math.log(max(p, 1e-12)) for p in probs)
+
+        # Uncertainty Decision:
+        # Gated by:
+        # - Information deficit (blank image or degraded low-information image)
+        # - Epistemic uncertainty (high entropy across 10 classes > 1.85)
+        # - Top-two margin ambiguity (< 0.08)
+        # - Weak score floor (< 0.35)
+        is_featureless = info_status in ("blank_image", "low_information_image")
+        is_uncertain = (
+            is_featureless
+            or entropy > 1.85
+            or top_1["confidence"] < 0.35
+            or (top_1["confidence"] - top_2["confidence"] < 0.08)
+        )
 
         if is_uncertain:
             predicted_category = "Uncertain"
@@ -290,7 +327,7 @@ def run_detector(prepared: PreparedImage) -> list[Detection]:
         result: list[Detection] = []
         for box, label_id, score in zip(prediction["boxes"], prediction["labels"], prediction["scores"]):
             confidence = float(score.item())
-            if confidence < 0.35:
+            if confidence < 0.45:
                 continue
             x1, y1, x2, y2 = (int(round(value)) for value in box.tolist())
             x1, y1 = max(0, x1), max(0, y1)
